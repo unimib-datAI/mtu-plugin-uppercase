@@ -1,0 +1,8 @@
+{
+    "type": "transform",
+    "output": "transform.json",
+    "entry_file": "transform.py",
+    "name": "uppercase",
+    "description": "Transform plugin",
+    "column_type": "STRING"
+}
